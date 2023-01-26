@@ -12,6 +12,6 @@ Gómez Gómez Horacio Jahir.
 
 ### Collaborator profiles:
 []()  
-[]()  
-[]()  
+[rcastrejon](https://github.com/rcastrejon)  
+[FernanCetinaE](https://github.com/FernanCetinaE)  
 [JahirGomez](https://github.com/JahirGomez)
