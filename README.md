@@ -11,7 +11,7 @@ Cetina Escalante Fernán Enrique.
 Gómez Gómez Horacio Jahir.  
 
 ### Collaborator profiles:
-[]()  
+[Edwin-Lines](https://github.com/Edwin-Lines)  
 [rcastrejon](https://github.com/rcastrejon)  
 [FernanCetinaE](https://github.com/FernanCetinaE)  
 [JahirGomez](https://github.com/JahirGomez)
