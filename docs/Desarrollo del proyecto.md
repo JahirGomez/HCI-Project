@@ -16,7 +16,7 @@ La solución propuesta es una plataforma de comparación de precios de medicamen
 
 La plataforma de comparación de precios de medicamentos es una solución innovadora que busca mejorar la accesibilidad a los medicamentos y reducir los costos para la población. La información que se proporcionará en la plataforma será valiosa para las personas que necesitan medicamentos de manera constante, como en el caso de enfermedades crónicas. Además, la plataforma ayudará a las personas a tomar decisiones más informadas al momento de comprar medicamentos, lo que puede tener un impacto significativo en su economía personal.
 
-## Innovación
+## Innovación:
 
 La innovación de esta propuesta radica en la integración de información actualizada y precisa sobre los precios históricos y actuales de medicamentos en diferentes farmacias en una plataforma web accesible y fácil de usar. Actualmente, no existe una herramienta que brinde esta información de manera clara y concisa, lo que hace que las personas a menudo paguen precios más altos por sus medicamentos sin saber que pueden comprarlos más baratos en otra farmacia. Además, la herramienta también proporciona información sobre los precios históricos de los medicamentos, lo que permite a los usuarios evaluar si están pagando un precio justo por sus medicamentos.
 
