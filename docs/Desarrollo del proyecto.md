@@ -6,7 +6,10 @@ Muchas veces, las personas compran sus medicamentos en la farmacia que les queda
 
 ## Identificación del problema:
 
-La problemática se identificó a través de tres fuentes de información: anécdotas personales, investigaciones rápidas y recolección de datos usando web scraping. Las anécdotas personales fueron proporcionadas por personas que compraban sus medicamentos en una farmacia cercana sin conocer los precios de otras farmacias. También se observó cómo una persona mayor intentaba acceder a los sitios web de distintas farmacias, lo cual resultó en frustración. Las investigaciones rápidas se realizaron en farmacias locales y en internet. La revisión de farmacias locales mostró una gran variación de precios, así como página lentas y poco intuitivas. En internet, se encontraron numerosas noticias y artículos que hablaban sobre el alto costo de los medicamentos. Por último, la recolección de datos se realizó a través de web scraping, una técnica para recopilar información de diferentes sitios web, del precio de la insulina en la página web de la cadena de farmacias YZA.
+La problemática se identificó a través de tres fuentes de información: anécdotas personales, investigaciones rápidas y recolección de datos usando web scraping.
+ - Las anécdotas personales fueron proporcionadas por personas que compraban sus medicamentos en una farmacia cercana sin conocer los precios de otras farmacias. También se observó cómo una persona mayor intentaba acceder a los sitios web de distintas farmacias, lo cual resultó en frustración.
+ -  Las investigaciones rápidas se realizaron en farmacias locales y en internet. La revisión de farmacias locales mostró una gran variación de precios, así como página lentas y poco intuitivas. En internet, se encontraron numerosas noticias y artículos que hablaban sobre el alto costo de los medicamentos.
+ -  Por último, la recolección de datos se realizó a través de web scraping, una técnica para recopilar información de diferentes sitios web, del precio de la insulina en la página web de la cadena de farmacias YZA.
 
 ## Solución propuesta:
 
