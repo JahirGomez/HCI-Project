@@ -1,4 +1,4 @@
-# Desarrollo de una plataforma de comparación de precios de medicamentos
+# Desarrollo de una plataforma de comparación de precios de medicamentos.
 
 ## Introducción:
 
